@@ -23,7 +23,7 @@ The goal is to provide an open-source bot that can be continuously extended with
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**.
 
 ## Code of Conduct
-The code of conduct is not available yet.
+The code of conduct is available [here](https://github.com/UselyBot/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## Contact & Team
 
